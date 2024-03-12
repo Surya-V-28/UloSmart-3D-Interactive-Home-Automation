@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Window" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0.66); align-items: center; justify-content: center; color: rgb(255, 255, 255);">
+        <ui:Label tabindex="-1" text="UloSmart" display-tooltip-when-elided="true" name="Title" style="-unity-font-style: bold; font-size: 165px;" />
+        <ui:Label tabindex="-1" text="Loading..." display-tooltip-when-elided="true" name="LoadingIndicator" style="-unity-font-style: bold; font-size: 71px; margin-top: 32px;" />
+    </ui:VisualElement>
+</ui:UXML>

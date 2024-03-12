@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Environment/Prototype/Gas/Warning%20System/GassedRoomsListUIStyles.uss?fileID=7433441132597879392&amp;guid=272412e5493b3d34786843a68dd3328f&amp;type=3#GassedRoomsListUIStyles" />
+    <ui:VisualElement name="Root" picking-mode="Ignore" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement name="RoomsList" picking-mode="Ignore" />
+        <ui:VisualElement name="OpenRoomsListButtonContainer">
+            <ui:Button display-tooltip-when-elided="true" name="OpenRoomsListButton" class="floating-action-button">
+                <ui:VisualElement name="Icon" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); background-image: url(&apos;project://database/Assets/Environment/Prototype/Gas/Warning%20System/GasIcon.svg?fileID=7388822144124034973&amp;guid=4cc86793c6b870d47ab255e4b21a6b74&amp;type=3#GasIcon&apos;);" />
+            </ui:Button>
+            <ui:Label tabindex="-1" text="!" display-tooltip-when-elided="true" name="Exclamation" picking-mode="Ignore" class="scaled" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

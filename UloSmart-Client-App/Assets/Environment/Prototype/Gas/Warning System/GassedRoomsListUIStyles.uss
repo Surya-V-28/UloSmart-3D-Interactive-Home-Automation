@@ -1,0 +1,50 @@
+#Root {
+	padding: 32px;	
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+#RoomsList {
+	/*visibility: hidden;*/
+	flex-shrink: 0;
+	flex-grow: 1;
+	width: 360px;
+	flex-direction: column-reverse;
+	border-radius: 8px;
+}
+
+#RoomsList > .list-item {
+	margin-bottom: 16px;
+	padding: 16px;
+	scale: 1.0;
+	transition: 500ms;
+}
+
+#RoomsList > .list-item.hidden {
+	transform-origin: right center;
+	scale: 0.0;
+}
+
+#OpenRoomsListButtonContainer {
+	margin-top: 16px;
+	overflow: visible;
+}
+
+#OpenRoomsListButtonContainer > #Exclamation {
+	position: absolute;
+	left: 80%;
+	bottom: 70%;
+	font-size: 32px;
+	-unity-font-style: bold;
+	scale: 1.0;
+	transform-origin: left bottom;
+	transition-duration: 500ms;
+}
+
+#OpenRoomsListButtonContainer > #Exclamation.scaled {
+	scale: 2.0;
+}
+
+#OpenRoomsListButtonContainer #OpenRoomsListButton {
+	padding: 16px;
+}

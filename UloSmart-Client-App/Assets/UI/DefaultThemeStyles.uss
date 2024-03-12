@@ -1,0 +1,16 @@
+.unity-button {
+	border-radius: 8px;
+	background-color: white;
+}
+
+.floating-action-button {
+	width: 80px;
+	height: 80px;
+	border-radius: 3000px;
+}
+
+.list-item {
+	display: inline-flex;
+	width: 100%;
+	-unity-text-align: left;
+}

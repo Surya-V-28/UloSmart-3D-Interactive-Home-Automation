@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: df9b4cf1add0b0940b65a757f4b5a72e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainCameraTexture: {fileID: 8400000, guid: e7dbe2f1cc640874e8a0b34eaebed21a,
+      type: 2}
+  - _BlitTexture: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

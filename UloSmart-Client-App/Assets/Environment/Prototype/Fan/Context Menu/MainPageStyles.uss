@@ -1,0 +1,38 @@
+.window {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 500px;
+	height: 100%;
+	background-color: white;
+	padding: 32px;
+}
+
+.close-button {
+	position: absolute;
+	right: 16px;
+	top: 16px;
+	-unity-font-style: bold;
+}
+
+.heading-area {
+	flex-grow: 0;
+	align-items: center;
+}
+
+.title {
+	align-self: center;
+	font-size: 48px;
+}
+
+.buttons-area {
+	margin-top: 32px;
+}
+
+.buttons-area Button {
+	margin-top: 16px;
+}
+
+.buttons-area Button.first {
+	margin-top: 0px;
+}

@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Environment/Prototype/Lamp/Lamp%20Context%20Menu/MainPageStyles.uss?fileID=7433441132597879392&amp;guid=07d98d9fe0d5d1b4fa9ce3584f243e7a&amp;type=3#MainPageStyles" />
+    <ui:VisualElement name="WindowContainer" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement name="Window" class="window">
+            <ui:Button text="x" display-tooltip-when-elided="true" name="CloseWindowButton" class="close-button" />
+            <ui:VisualElement name="HeadingArea" class="heading-area">
+                <ui:Label name="Heading" text="Light" class="title" />
+            </ui:VisualElement>
+            <ui:VisualElement name="ButtonsArea" class="buttons-area">
+                <ui:Button name="ToggleButton" text="TURN ON" display-tooltip-when-elided="true" />
+                <ui:Button name="ToChangeColorPageButton" text="CHANGE COLOR" display-tooltip-when-elided="true" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Environment/Prototype/Fan/Context%20Menu/MainPageStyles.uss?fileID=7433441132597879392&amp;guid=26543160965208446b72fb9b8dca40e0&amp;type=3#MainPageStyles" />
+    <ui:VisualElement name="WindowContainer" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement name="Window" class="window">
+            <ui:Button display-tooltip-when-elided="true" name="CloseWindowButton" text="x" class="close-button" />
+            <ui:VisualElement name="HeadingArea" class="heading-area">
+                <ui:Label name="Heading" text="Fan" class="title" />
+            </ui:VisualElement>
+            <ui:VisualElement name="ButtonsArea" class="buttons-area">
+                <ui:Button name="ToggleButton" text="TURN ON" display-tooltip-when-elided="true" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
