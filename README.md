@@ -21,14 +21,14 @@ This 3D Automated Smart Home application provides a fully immersive experience, 
 ![Light Off](readme_images/light_off.jpg)
 <p align="middle">Interaction result</p>
 
-## Features
+## ✨ Features
 - **Virtual Home Interaction**: Navigate through a 3D rendition of your home and control devices like lighting, thermostats, security cameras, and more.
 
 - **Real-Time Smart Home Control**: Seamlessly adjust your actual home’s smart features through the virtual interface.
 
 - **Built-In Assistant**: Get real-time alerts for potential hazards such as gas leaks, fires, and unauthorized access, ensuring your home stays safe and secure.
 
-## Technology Stack
+## ⚒️ Technology Stack
 ### Software
 - The **Interactive 3D Virtual Home** was developed using **Unity3D**.
 - The **3D objects and other assets** used to built the 3D Virtual Home were created using **Blender**.
@@ -38,7 +38,7 @@ This 3D Automated Smart Home application provides a fully immersive experience, 
 ### Hardware
 - An **Arduino Uno Board**
 
-## Screenshots
+## 📸 Screenshots
 ![Smoke Warning System](readme_images/smoke_warning_system.jpg)
 <p align="middle">Gas Leak Warning System</p>
 <br />
