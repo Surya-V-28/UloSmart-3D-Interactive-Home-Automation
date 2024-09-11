@@ -1,4 +1,4 @@
-# UloSmart 3D Interactive Home Automation
+# UloSmart 3D Interactive Home Automation (Final Year Project)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
