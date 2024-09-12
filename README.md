@@ -1,13 +1,13 @@
 # UloSmart 3D Interactive Home Automation (UG Final Year Project)
 ## Table of Contents
 - [Introduction](#introduction)
+- [Contributions(Teamates)](#contributions)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Screenshots](#screenshots)
 
 ## Introduction
 This 3D Automated Smart Home application provides a fully immersive experience, allowing users to virtually explore and interact with a digital replica of their home. Through this virtual interface, users can control real-world smart devices, manage home settings, and monitor various aspects of their environment.
-
 <br />
 
 ![Smoke Warning System](readme_images/smoke_warning_system.jpg)
@@ -20,6 +20,11 @@ This 3D Automated Smart Home application provides a fully immersive experience, 
 
 ![Light Off](readme_images/light_off.jpg)
 <p align="middle">Interaction result</p>
+
+## Contributions
+- S Yamin Nather, Github - [https://github.com/YaminNather](https://github.com/YaminNather)
+- Harinivas Srinivasan, Github - [https://github.com/McFlurinivas](https://github.com/McFlurinivas)
+- Surya V, Github - [https://github.com/Surya-V-28](https://github.com/Surya-V-28)
 
 ## ✨ Features
 - **Virtual Home Interaction**: Navigate through a 3D rendition of your home and control devices like lighting, thermostats, security cameras, and more.
