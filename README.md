@@ -1,13 +1,13 @@
 # UloSmart 3D Interactive Home Automation (UG Final Year Project)
 ## Table of Contents
 - [Introduction](#introduction)
-- [Contributions(Teamates)](#contributions)
+- [Contributions(Teammates)](#contributions)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Screenshots](#screenshots)
 
 ## Introduction
-This 3D Automated Smart Home application provides a fully immersive experience, allowing users to virtually explore and interact with a digital replica of their home. Through this virtual interface, users can control real-world smart devices, manage home settings, and monitor various aspects of their environment.
+This 3D Automated Smart Home application offers a fully immersive experience, allowing users to virtually explore and interact with a digital replica of their home. Through this interface, users can control smart devices, manage home settings, and monitor various aspects of their environment in real-time.
 <br />
 
 ![Smoke Warning System](readme_images/smoke_warning_system.jpg)
@@ -26,13 +26,15 @@ This 3D Automated Smart Home application provides a fully immersive experience, 
 - Harinivas Srinivasan, Github - [https://github.com/McFlurinivas](https://github.com/McFlurinivas)
 - Surya V, Github - [https://github.com/Surya-V-28](https://github.com/Surya-V-28)
 
-## ✨ Features
+## ✨ Features 
 - **Virtual Home Interaction**: Navigate through a 3D rendition of your home and control devices like lighting, thermostats, security cameras, and more.
 
 - **Real-Time Smart Home Control**: Seamlessly adjust your actual home’s smart features through the virtual interface.
 
 - **Built-In Assistant**: Get real-time alerts for potential hazards such as gas leaks, fires, and unauthorized access, ensuring your home stays safe and secure.
 
+- **Emphasize the User Experience**: This system combines practicality and convenience, ensuring users have complete control over their home environment from one centralized location.
+  
 ## ⚒️ Technology Stack
 ### Software
 - The **Interactive 3D Virtual Home** was developed using **Unity3D**.
@@ -41,7 +43,7 @@ This 3D Automated Smart Home application provides a fully immersive experience, 
 - The **User Interface** and **Arduino Board** was programmed using C# and C++ respectively.
 
 ### Hardware
-- An **Arduino Uno Board** to control the appliances
+- An **Arduino Uno Board** is used to control the appliances by receiving commands from the **NodeMCU Board**. While the NodeMCU can also control appliances, the Arduino Uno was preferred due to its higher number of digital and analog pins, and its ability to support up to 12V
 - A **NodeMCU Board** which acts as a bridge between the software and hardware. It directs the Arduino UNO Board to control the appliances by listening to the app.
 - **Relay Switches** to switch on/off the appliances electrically and protect the system from too high voltage or current.
 - **Gas Sensor** to detect smoke and trigger sound.
