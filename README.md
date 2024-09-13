@@ -41,7 +41,10 @@ This 3D Automated Smart Home application provides a fully immersive experience, 
 - The **User Interface** and **Arduino Board** was programmed using C# and C++ respectively.
 
 ### Hardware
-- An **Arduino Uno Board**
+- An **Arduino Uno Board** to control the appliances
+- A **NodeMCU Board** which acts as a bridge between the software and hardware. It directs the Arduino UNO Board to control the appliances by listening to the app.
+- **Relay Switches** to switch on/off the appliances electrically and protect the system from too high voltage or current.
+- **Gas Sensor** to detect smoke and trigger sound.
 
 ## 📸 Screenshots
 ![Smoke Warning System](readme_images/smoke_warning_system.jpg)
