@@ -1,4 +1,4 @@
-# UloSmart 3D Interactive Home Automation (UG Final Year Project)
+# HomeIQ 3D - Interactive Home Automation (UG Final Year Project)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Contributions(Teammates)](#contributions)
