@@ -8,6 +8,7 @@
 
 ## Introduction
 This 3D Automated Smart Home application offers a fully immersive experience, allowing users to virtually explore and interact with a digital replica of their home. Through this interface, users can control smart devices, manage home settings, and monitor various aspects of their environment in real-time.
+
 <br />
 
 ![Smoke Warning System](readme_images/smoke_warning_system.jpg)
