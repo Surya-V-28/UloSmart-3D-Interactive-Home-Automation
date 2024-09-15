@@ -50,6 +50,10 @@ This 3D Automated Smart Home application offers a fully immersive experience, al
 - **Gas Sensor** to detect smoke and trigger sound.
 
 ## 📸 Screenshots
+![Room 0](readme_images/room_overview_0.jpg)
+<p align="middle">Smart Home Room</p>
+<br />
+
 ![Smoke Warning System](readme_images/smoke_warning_system.jpg)
 <p align="middle">Gas Leak Warning System</p>
 <br />
@@ -64,10 +68,6 @@ This 3D Automated Smart Home application offers a fully immersive experience, al
 
 ![Fan Controls](readme_images/fan_controls.jpg)
 <p align="middle">Fan Controls</p>
-<br />
-
-![Room 0](readme_images/room_overview_0.jpg)
-<p align="middle">Smart Home Room</p>
 <br />
 
 ![Room 1](readme_images/room_overview_1.jpg)
